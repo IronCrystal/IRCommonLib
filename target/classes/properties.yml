@@ -1,0 +1,8 @@
+name: IRCommonLib
+version: 0.0.1 b1
+
+description: IronCrystals Library
+author: IronCrystal
+main: me.IronCrystal.IRCommonLib.IRCommonLib
+platform: SERVER
+reload: true
